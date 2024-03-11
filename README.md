@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-
 # Welcome to My GitHub Page!
 
 Hello, and welcome to my GitHub page! Here you can find various projects and repositories that I'm working on. Feel free to explore and check out my code.
@@ -33,4 +31,4 @@ Feel free to reach out to me via email at o.galani@hotmail.com or through social
 
 <div align="center">
   Made with ⭐️ by [Your Name]
-</div>  
+</div>
