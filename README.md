@@ -9,7 +9,7 @@ Hello, and welcome to my GitHub page! Here you can find various projects and rep
 ## Featured Projects
 
 - [Password Hashing](https://github.com/Orland-G/Password-Hashing/blob/main/the_last_Caesar.py) - Implemented a hashing algorithm for password security 
-- [Sentiment Analysis](https://github.com/Orland-G/finalCapstone/blob/master/sentiment_analysis.py) - Sentiment analysis on Amazon products
+- [Sentiment Analysis](https://github.com/Orland-G/finalCapstone/blob/master/sentiment_analysis.py) - Sentiment analysis on Amazon product reviews
 
 ---
 
