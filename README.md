@@ -15,7 +15,7 @@ Hello, and welcome to my GitHub page! Here you can find various projects and rep
 
 ## About Me
 
-I'm a Science and Math Tutor with a passion for Python programming and Data Anlysis. I am interested in applying my coding knowledge to data and gathering actionable insights. I love collaborating on projects and learning new technologies. Connect with me on [LinkedIn](https://www.linkedin.com/in/orland-galjani).
+I'm a Science and Math Tutor with a passion for Python programming and Data Analysis. I am interested in applying my coding knowledge to data and gathering actionable insights. I love collaborating on projects and learning new technologies. Connect with me on [LinkedIn](https://www.linkedin.com/in/orland-galjani).
 
 ---
 
