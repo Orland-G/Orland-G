@@ -27,3 +27,10 @@ Feel free to reach out to me via email at o.galani@hotmail.com or through social
 
 ---
 
+<div align="center">
+  <img src="https://placekitten.com/200/200" alt="Profile Picture" width="100" height="100">
+</div>
+
+<div align="center">
+  Made with ⭐️ by [Your Name]
+</div>  
