@@ -30,5 +30,5 @@ Feel free to reach out to me via email at o.galani@hotmail.com or through social
 </div>
 
 <div align="center">
-  Made with ⭐️ by [Your Name]
+  Made with ⭐️ by Orland Galjani
 </div>
